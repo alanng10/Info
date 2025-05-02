@@ -48,4 +48,8 @@ Info has park kind arch marry.
 
 Info has park kind arch land.
 
+Info has park mark.
+
+Info has park cross.
+
 Info has major.
